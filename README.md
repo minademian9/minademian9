@@ -12,7 +12,8 @@
 
 <br>
 
-- Experience Developer with a passion for Automation
+- Experienced Developer/Engineer/Architect with a passion for Automation
+- Professional Problem Solver using the right tool or technology for the job
 - Currently working as a Cloud Architect
 - Personal website [link](https://minademian9.github.io/)
 
